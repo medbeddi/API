@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\beddi\\source\\repos\\testAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|c:\\users\\beddi\\source\\repos\\testapi\\testapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|solutionrelative:testapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|c:\\users\\beddi\\source\\repos\\testapi\\testapi\\dtos\\moviedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|solutionrelative:testapi\\dtos\\moviedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|c:\\users\\beddi\\source\\repos\\testapi\\testapi\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|solutionrelative:testapi\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|c:\\users\\beddi\\source\\repos\\testapi\\testapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|solutionrelative:testapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|c:\\users\\beddi\\source\\repos\\testapi\\testapi\\migrations\\20241105100233_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|solutionrelative:testapi\\migrations\\20241105100233_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|c:\\users\\beddi\\source\\repos\\testapi\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|solutionrelative:testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|c:\\users\\beddi\\source\\repos\\testapi\\testapi\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|solutionrelative:testapi\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|c:\\users\\beddi\\source\\repos\\testapi\\testapi\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|solutionrelative:testapi\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|c:\\users\\beddi\\source\\repos\\testapi\\testapi\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|solutionrelative:testapi\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|c:\\users\\beddi\\source\\repos\\testapi\\testapi\\services\\moviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|solutionrelative:testapi\\services\\moviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|c:\\users\\beddi\\source\\repos\\testapi\\testapi\\services\\genresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|solutionrelative:testapi\\services\\genresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|c:\\users\\beddi\\source\\repos\\testapi\\testapi\\services\\imoviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|solutionrelative:testapi\\services\\imoviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|c:\\users\\beddi\\source\\repos\\testapi\\testapi\\services\\igenresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|solutionrelative:testapi\\services\\igenresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|c:\\users\\beddi\\source\\repos\\testapi\\testapi\\testapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|solutionrelative:testapi\\testapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|c:\\users\\beddi\\source\\repos\\testapi\\testapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|solutionrelative:testapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|c:\\users\\beddi\\source\\repos\\testapi\\testapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|solutionrelative:testapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|c:\\users\\beddi\\source\\repos\\testapi\\testapi\\migrations\\20241105025240_dbcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEB1E55-9DF5-43B7-BD20-DDF573291110}|testAPI\\testAPI.csproj|solutionrelative:testapi\\migrations\\20241105025240_dbcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Dtos\\MovieDto.cs",
+              "RelativeDocumentMoniker": "testAPI\\Dtos\\MovieDto.cs",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Dtos\\MovieDto.cs",
+              "RelativeToolTip": "testAPI\\Dtos\\MovieDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:12:36.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Dtos\\MovieDetailsDto.cs",
+              "RelativeDocumentMoniker": "testAPI\\Dtos\\MovieDetailsDto.cs",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Dtos\\MovieDetailsDto.cs",
+              "RelativeToolTip": "testAPI\\Dtos\\MovieDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:13:03.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "testAPI\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "testAPI\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAmwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:22:07.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "testAPI\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Models\\Movie.cs",
+              "RelativeToolTip": "testAPI\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:45:34.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241105100233_init.cs",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Migrations\\20241105100233_init.cs",
+              "RelativeDocumentMoniker": "testAPI\\Migrations\\20241105100233_init.cs",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Migrations\\20241105100233_init.cs",
+              "RelativeToolTip": "testAPI\\Migrations\\20241105100233_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:06:30.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Program.cs",
+              "RelativeDocumentMoniker": "testAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Program.cs",
+              "RelativeToolTip": "testAPI\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAiwEUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:46:20.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "testAPI\\Helpers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "testAPI\\Helpers\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:17:02.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "testAPI\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "testAPI\\Controllers\\GenresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:09:35.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenreDto.cs",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Dtos\\GenreDto.cs",
+              "RelativeDocumentMoniker": "testAPI\\Dtos\\GenreDto.cs",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Dtos\\GenreDto.cs",
+              "RelativeToolTip": "testAPI\\Dtos\\GenreDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:01:59.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MoviesService.cs",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Services\\MoviesService.cs",
+              "RelativeDocumentMoniker": "testAPI\\Services\\MoviesService.cs",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Services\\MoviesService.cs",
+              "RelativeToolTip": "testAPI\\Services\\MoviesService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwDoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:57:43.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenresService.cs",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Services\\GenresService.cs",
+              "RelativeDocumentMoniker": "testAPI\\Services\\GenresService.cs",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Services\\GenresService.cs",
+              "RelativeToolTip": "testAPI\\Services\\GenresService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:55:00.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMoviesService.cs",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Services\\IMoviesService.cs",
+              "RelativeDocumentMoniker": "testAPI\\Services\\IMoviesService.cs",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Services\\IMoviesService.cs",
+              "RelativeToolTip": "testAPI\\Services\\IMoviesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:54:16.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenresService.cs",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Services\\IGenresService.cs",
+              "RelativeDocumentMoniker": "testAPI\\Services\\IGenresService.cs",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Services\\IGenresService.cs",
+              "RelativeToolTip": "testAPI\\Services\\IGenresService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:53:47.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "testAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\testAPI.csproj",
+              "RelativeDocumentMoniker": "testAPI\\testAPI.csproj",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\testAPI.csproj",
+              "RelativeToolTip": "testAPI\\testAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T02:53:08.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241105025240_DBCreate.cs",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Migrations\\20241105025240_DBCreate.cs",
+              "RelativeDocumentMoniker": "testAPI\\Migrations\\20241105025240_DBCreate.cs",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\Migrations\\20241105025240_DBCreate.cs",
+              "RelativeToolTip": "testAPI\\Migrations\\20241105025240_DBCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:52:40.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "testAPI\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\ApplicationDbContext.cs",
+              "RelativeToolTip": "testAPI\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:45:21.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "testAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\testAPI\\testAPI\\appsettings.json",
+              "RelativeToolTip": "testAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T02:45:59.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
